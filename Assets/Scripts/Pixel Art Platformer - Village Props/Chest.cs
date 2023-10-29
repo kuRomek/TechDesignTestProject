@@ -22,6 +22,9 @@ namespace Cainos.PixelArtPlatformer_VillageProps
         }
         private bool isOpened;
 
+        public AudioClip[] sounds;
+        public AudioSource source;
+
         [FoldoutGroup("Runtime"),Button("Open"), HorizontalGroup("Runtime/Button")]
         public void Open()
         {
@@ -37,9 +40,17 @@ namespace Cainos.PixelArtPlatformer_VillageProps
         private void OnMouseDown()
         {
             if (isOpened)
+            {
                 IsOpened = false;
+                source.clip = sounds[1];
+                source.Play();
+            }
             else
+            {
                 IsOpened = true;
+                source.clip = sounds[0];
+                source.Play();
+            }
         }
     }
 }

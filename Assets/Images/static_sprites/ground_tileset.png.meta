@@ -735,7 +735,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TX Tileset Ground_0
+      name: ground_1
       rect:
         serializedVersion: 2
         x: 0
@@ -761,7 +761,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Ground_1
+      name: ground_2
       rect:
         serializedVersion: 2
         x: 32
@@ -782,7 +782,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Ground_2
+      name: ground_3
       rect:
         serializedVersion: 2
         x: 64
@@ -808,7 +808,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Ground_3
+      name: ground_4
       rect:
         serializedVersion: 2
         x: 0
@@ -829,7 +829,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Ground_4
+      name: ground_5
       rect:
         serializedVersion: 2
         x: 32
@@ -850,7 +850,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Ground_5
+      name: ground_6
       rect:
         serializedVersion: 2
         x: 64
@@ -871,7 +871,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Ground_6
+      name: ground_7
       rect:
         serializedVersion: 2
         x: 0
@@ -892,7 +892,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Ground_7
+      name: ground_8
       rect:
         serializedVersion: 2
         x: 32
@@ -913,7 +913,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Ground_8
+      name: ground_9
       rect:
         serializedVersion: 2
         x: 64
@@ -946,17 +946,14 @@ TextureImporter:
     nameFileIdTable:
       TX Tileset Ground_14: -7833218270530847676
       TX Tileset Ground_50: 724395971767576797
-      TX Tileset Ground_2: 21300030
-      TX Tileset Ground_4: -8333202958171376367
+      TX Tileset Ground_55: 4231137850718434698
       TX Tileset Ground_42: 2388695207056086460
       TX Tileset Ground_133: -5482026004307997830
       TX Tileset Ground_46: -6729147656762955551
-      TX Tileset Ground_55: 4231137850718434698
       TX Tileset Ground_147: 3046535596759301673
       TX Tileset Ground_143: 2425531723342041738
-      TX Tileset Ground_6: -2094381130127968046
+      ground_7: -2094381130127968046
       TX Tileset Ground_140: 429529901364616313
-      TX Tileset Ground_7: 1847422516908647653
       TX Tileset Ground_73: 2621677188706217278
       TX Tileset Ground_123: 8783977218132511519
       TX Tileset Ground_19: -196723265562317597
@@ -965,7 +962,6 @@ TextureImporter:
       TX Tileset Ground_135: -1016465751531401168
       TX Tileset Ground_38: -8022950323857649113
       TX Tileset Ground_137: -6372023820265877523
-      TX Tileset Ground_8: -5568849602974404179
       TX Tileset Ground_87: 9182412978704800464
       TX Tileset Ground_97: 2391168199951930681
       TX Tileset Ground_47: 6733411465557643103
@@ -973,20 +969,23 @@ TextureImporter:
       TX Tileset Ground_27: -4052481170798748698
       TX Tileset Ground_88: -4688770256011149041
       TX Tileset Ground_128: 7916991415720903365
+      ground_1: 8652677587666043219
       TX Tileset Ground_72: 6589154805462139212
       TX Tileset Ground_101: -4074374073859113712
+      ground_2: -7190719572971877601
       TX Tileset Ground_74: -1853060765068681175
       TX Tileset Ground_63: -8399431015594367256
-      TX Tileset Ground_5: -1729818555723472959
       TX Tileset Ground_35: -3849982780482135931
       TX Tileset Ground_69: -6181067188798870218
-      TX Tileset Ground_129: 5424050302948683742
       TX Tileset Ground_160: 511756479
+      TX Tileset Ground_129: 5424050302948683742
       TX Tileset Ground_86: 3385635046494675186
+      ground_4: -6045269988124551188
       TX Tileset Ground_39: -2423524305584377400
       TX Tileset Ground_122: 3448590907577752742
       TX Tileset Ground_124: -1175915049651508019
       TX Tileset Ground_107: -5691089670213949018
+      ground_9: -5568849602974404179
       TX Tileset Ground_94: 9008423240310693086
       TX Tileset Ground_16: -347825661036356991
       TX Tileset Ground_18: 5918128945180904696
@@ -1014,6 +1013,7 @@ TextureImporter:
       TX Tileset Ground_98: 6553786546769284172
       TX Tileset Ground_136: -4320511653828587813
       TX Tileset Ground_157: -420446242
+      ground_5: -8333202958171376367
       TX Tileset Ground_28: -1007057309747945417
       TX Tileset Ground_9: 6831165330611300861
       TX Tileset Ground_84: -4858993238434676519
@@ -1026,25 +1026,24 @@ TextureImporter:
       TX Tileset Ground_23: -4457526041281723274
       TX Tileset Ground_81: -8691193848492924058
       TX Tileset Ground_149: 806825461475872667
-      TX Tileset Ground_1: -7190719572971877601
       TX Tileset Ground_78: 8360274930078618278
       TX Tileset Ground_82: 1220477180160559539
       TX Tileset Ground_62: -1788669641975307430
-      TX Tileset Ground_79: -6604934492422798548
-      TX Tileset Ground_92: 6333894117215390091
-      TX Tileset Ground_15: -9164348248706466934
       TX Tileset Ground_146: -5987668019317818230
+      TX Tileset Ground_79: -6604934492422798548
+      TX Tileset Ground_15: -9164348248706466934
       TX Tileset Ground_60: 2249758793273999391
       TX Tileset Ground_127: 7685785470099984901
       TX Tileset Ground_139: -5680157909926744962
+      TX Tileset Ground_92: 6333894117215390091
       TX Tileset Ground_61: 7933787385540080387
       TX Tileset Ground_68: 3061041135340136042
-      TX Tileset Ground_3: -6045269988124551188
       TX Tileset Ground_33: -313657411623619123
       TX Tileset Ground_77: 2367332489764980990
       TX Tileset Ground_96: 2611585223625413014
       TX Tileset Ground_109: 980635036814419537
       TX Tileset Ground_134: 2959316513177467078
+      ground_6: -1729818555723472959
       TX Tileset Ground_80: -8294162198892436036
       TX Tileset Ground_99: 7887559656136022619
       TX Tileset Ground_154: 4886821488786415864
@@ -1067,6 +1066,7 @@ TextureImporter:
       TX Tileset Ground_49: 6763524457684223202
       TX Tileset Ground_153: -5362793937043775683
       TX Tileset Ground_161: 1589211917
+      ground_8: 1847422516908647653
       TX Tileset Ground_54: 6213293354356424504
       TX Tileset Ground_121: -5400040089587543099
       TX Tileset Ground_57: 7745744100132357953
@@ -1079,6 +1079,7 @@ TextureImporter:
       TX Tileset Ground_159: 1710208027
       TX Tileset Ground_48: 4444248008034445220
       TX Tileset Ground_131: -3157895660207498662
+      ground_3: 21300030
       TX Tileset Ground_58: -5207897238948500970
       TX Tileset Ground_37: -8292312247121785769
       TX Tileset Ground_31: -7931676834721962443
@@ -1101,12 +1102,11 @@ TextureImporter:
       TX Tileset Ground_102: -9023639060672660837
       TX Tileset Ground_151: 59002303270103204
       TX Tileset Ground_108: -4971725082711922011
-      TX Tileset Ground_125: -8241012424202210315
       TX Tileset Ground_51: -2198753249273810656
-      TX Tileset Ground_0: 8652677587666043219
-      TX Tileset Ground_113: -2205998391313803506
-      TX Tileset Ground_116: -3812786896775926999
       TX Tileset Ground_95: 2013731596871720695
+      TX Tileset Ground_125: -8241012424202210315
+      TX Tileset Ground_116: -3812786896775926999
+      TX Tileset Ground_113: -2205998391313803506
       TX Tileset Ground_144: -1748285848841930389
       TX Tileset Ground_150: 4945285195332565790
       TX Tileset Ground_130: 1921895609169914298

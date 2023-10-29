@@ -585,91 +585,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TX Village Props - Chest Wooden
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 480
-        width: 34
-        height: 29
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52cb85ba5741db549a28b2918489ac7d
-      internalID: 21300004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Village Props - Chest Iron
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 480
-        width: 34
-        height: 30
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55befdc912403f1478aabcf3dfdb78dd
-      internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Village Props - Barrel
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 960
-        width: 27
-        height: 35
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ffce8924fd405494cbd864054dba4ce3
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Village Props - Pot 01
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 960
-        width: 17
-        height: 29
-      alignment: 9
-      pivot: {x: 0.47058824, y: 0.4827586}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 893bb0346aa502b468f17ac609d39538
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Village Props - Road Sign 02
+      name: road_sign
       rect:
         serializedVersion: 2
         x: 416
@@ -690,7 +606,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Village Props - Stump
+      name: stump
       rect:
         serializedVersion: 2
         x: 800
@@ -711,7 +627,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Village Props - Grass 01
+      name: grass_1
       rect:
         serializedVersion: 2
         x: 391
@@ -732,7 +648,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Village Props - Grass 03
+      name: grass_2
       rect:
         serializedVersion: 2
         x: 458
@@ -753,7 +669,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Village Props - Bush 02
+      name: bush
       rect:
         serializedVersion: 2
         x: 452
@@ -774,7 +690,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Village Props - Rock 02
+      name: rock
       rect:
         serializedVersion: 2
         x: 874
@@ -795,28 +711,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Village Props - Wheat 02
-      rect:
-        serializedVersion: 2
-        x: 545
-        y: 480
-        width: 28
-        height: 59
-      alignment: 9
-      pivot: {x: 0.58928573, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7eb5bed04e4196c43a75de305f16ba75
-      internalID: 21300142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Village Props - Tree 02
+      name: tree
       rect:
         serializedVersion: 2
         x: 694
@@ -837,7 +732,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Village Props - Pumpkin 01
+      name: pumpkin
       rect:
         serializedVersion: 2
         x: 577
@@ -858,49 +753,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Village Props - Chest Silver
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 416
-        width: 34
-        height: 30
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e7106c865be82580800000000000000
-      internalID: -8851566310641887263
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Village Props - Chest Golden
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 416
-        width: 34
-        height: 30
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b0c09d54c154200e0800000000000000
-      internalID: -2305204071527019509
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Village Props - Grass 07
+      name: grass_3
       rect:
         serializedVersion: 2
         x: 391
@@ -935,6 +788,7 @@ TextureImporter:
       TX Village Props - Wood Logs: 21300126
       TX Village Props - Seesaw 01 Support: -144655111
       TX Village Props - Clother Hanger Pillar 02: 21300232
+      grass_2: 21300098
       TX Village Props - Gravestone 02: 21300088
       TX Village Props - Wooden Bridge Part 01: 2023208554
       TX Village Props - Wooden Bridge Part 03: 1352905878
@@ -953,7 +807,6 @@ TextureImporter:
       TX Village Props - Flower 01: 21300100
       TX Village Props - Wheat 05: 21300148
       TX Village Props - Gravestone 04: 21300092
-      TX Village Props - Pumpkin 01: 21300256
       TX Village Props - Training Dummy: 21300184
       TX Village Props - Platform R 03: 1368479137
       TX Village Props - Elevator  Pully: 295050240
@@ -969,7 +822,6 @@ TextureImporter:
       TX Village Props - Grass 05: 21300104
       TX Village Props - Fence 01 Rail 03: 21300034
       TX Village Props - Table: 21300172
-      TX Village Props - Grass 07: -1464565168
       TX Village Props - Kettle: 21300202
       TX Village Props - Chain 01: 404104737
       TX Village Props - Weapon Rack: 21300162
@@ -979,10 +831,8 @@ TextureImporter:
       TX Village Props - Barricade: 21300214
       TX Village Props - Road Lamp Pillar: 21300016
       TX Village Props - Ladder 02 Step B: -218576498
-      TX Village Props - Road Sign 02: 21300044
       TX Village Props - Cloth 01: 21300236
       TX Village Props - Obstacle Platform X40: -544336610
-      TX Village Props - Bush 02: 21300112
       TX Village Props - Fence 01 Pillar 02: 21300026
       TX Village Props - Bounding Platform 01: 1776929518
       TX Village Props - Chair: 21300174
@@ -990,7 +840,6 @@ TextureImporter:
       TX Village Props - Platform L 02: 21300218
       TX Village Props - Gravestone 03: 21300090
       TX Village Props - Fence 01 Rail 01: 21300030
-      TX Village Props - Stump: 21300062
       TX Village Props - Gravestone 01: 21300086
       TX Village Props - Stall Fruit 04: 21300212
       TX Village Props - Fence 02 Pillar: 21300038
@@ -1000,17 +849,19 @@ TextureImporter:
       TX Village Props - Road Lamp Light On: 21300020
       TX Village Props - Stairs X64: -1183028556
       TX Village Props - Stall Table: 21300194
-      TX Village Props - Grass 01: 21300094
+      road_sign: 21300044
       TX Village Props - Stall Tent: 21300188
       TX Village Props - Grass 04: 21300102
       TX Village Props - Ladder 02 Pillar C: -877933732
       TX Village Props - Stall Fruit 01: 21300206
+      bush: 21300112
       TX Village Props - Road Sign 01: 21300042
       TX Village Props - Fence 01 Rail 02: 21300032
       TX Village Props - Platform L 03: -3806943691756881100
       TX Village Props - Well: 21300066
       TX Village Props - Ladder 02 Step C: 1130954146
       TX Village Props - Hay Bale: 21300076
+      grass_3: -1464565168
       TX Village Props - Grass 08: 194385232
       TX Village Props - Wooden Bridge Part 02: 1761022905
       TX Village Props - Grass 06: 21300106
@@ -1052,18 +903,19 @@ TextureImporter:
       TX Village Props - Arrow Hit: 21300158
       TX Village Props - Ladder 01 B: 21300074
       TX Village Props - Ladder 02 Nail: 1717805118
-      TX Village Props - Rock 02: 21300136
       TX Village Props - Bucket: 21300068
       TX Village Props - Gunny Bag 02: 21300132
       TX Village Props - Fence 01 Nail: 21300036
       TX Village Props - Spike Plate: 21300228
+      pumpkin: 21300256
       TX Village Props - Hay Fork: 21300080
       TX Village Props - Brick Wall: 21300160
       TX Village Props - Chest Golden: -2305204071527019509
-      TX Village Props - Arrow: 21300156
+      village_props_0: 1331602684
       TX Village Props - Clother Hanger Clip: 21300244
       TX Village Props - Ladder 02 Step A: -786919060
       TX Village Props - Sign Text 01: 2108454091
+      TX Village Props - Arrow: 21300156
       TX Village Props - Pot 01: 21300010
       TX Village Props - Crate Small: 21300002
       TX Village Props - Ladder 02 Pillar B: 1701354734
@@ -1082,6 +934,7 @@ TextureImporter:
       TX Village Props - Billboard Noti 02: 21300058
       TX Village Props - Fire Bowl: 21300268
       TX Village Props - Grass 02: 21300096
+      grass_1: 21300094
       TX Village Props - Wheelbarrow Wheel: 21300118
       TX Village Props - Stone of Recall - Glow: -1796461765
       TX Village Props - Tree 01: 21300120
@@ -1090,9 +943,9 @@ TextureImporter:
       TX Village Props - Gunny Bag 01: 21300130
       TX Village Props - Ladder 01 Side LM 01: 5803455356149086885
       TX Village Props - White Bottle: 21300204
-      TX Village Props - Tree 02: 21300226
       TX Village Props - Archert Target: 21300154
       TX Village Props - Pot 03: 21300014
+      stump: 21300062
       TX Village Props - Axe: 21300064
       TX Village Props - Ladder 01 Side RB: -1247775351
       TX Village Props - Log Bench: 21300170
@@ -1102,6 +955,7 @@ TextureImporter:
       TX Village Props - Wheat 02: 21300142
       TX Village Props - Cloth 06: 21300250
       TX Village Props - Cloth 08: 21300254
+      tree: 21300226
       TX Village Props - Hay Pile: 21300078
       TX Village Props - Road Sign Text 01: 21300046
       TX Village Props - Flower 02: 21300108
@@ -1111,11 +965,11 @@ TextureImporter:
       TX Village Props - Clother Hanger Rope 01: 21300234
       TX Village Props - Chest Silver: -8851566310641887263
       TX Village Props - Platform M 02: 21300216
+      rock: 21300136
       TX Village Props - Platform M 01: 21300222
       TX Village Props - Wheat 04: 21300146
       TX Village Props - Billboard Noti 01: 21300054
       TX Village Props - Billboard: 21300052
-      TX Village Props - Grass 03: 21300098
       TX Village Props - Stall Fruit 02: 21300208
       TX Village Props - Cup: 21300180
       TX Village Props - Seesaw 01 Board: 2129404285

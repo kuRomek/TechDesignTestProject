@@ -14,4 +14,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/night.unity
     guid: e277bcb6fadf7444987132caab068f0f
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 61f03cfc9a181eb4590afa0076ff7f86, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 2b4dd3c884bff3f45a46c35ab487b212, type: 2}

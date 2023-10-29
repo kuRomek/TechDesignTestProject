@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 7679114330331167348}
   - component: {fileID: 7679114330331167337}
   m_Layer: 5
-  m_Name: change_daytime_button
+  m_Name: change_to_night_button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
